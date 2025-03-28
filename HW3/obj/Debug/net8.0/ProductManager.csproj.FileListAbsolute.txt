@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\ProductManager\bin\Debug\net8.0\ProductManager.exe
+C:\Users\student\source\repos\ProductManager\bin\Debug\net8.0\ProductManager.deps.json
+C:\Users\student\source\repos\ProductManager\bin\Debug\net8.0\ProductManager.runtimeconfig.json
+C:\Users\student\source\repos\ProductManager\bin\Debug\net8.0\ProductManager.dll
+C:\Users\student\source\repos\ProductManager\bin\Debug\net8.0\ProductManager.pdb
+C:\Users\student\source\repos\ProductManager\obj\Debug\net8.0\ProductManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\ProductManager\obj\Debug\net8.0\ProductManager.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ProductManager\obj\Debug\net8.0\ProductManager.AssemblyInfo.cs
+C:\Users\student\source\repos\ProductManager\obj\Debug\net8.0\ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ProductManager\obj\Debug\net8.0\ProductManager.dll
+C:\Users\student\source\repos\ProductManager\obj\Debug\net8.0\refint\ProductManager.dll
+C:\Users\student\source\repos\ProductManager\obj\Debug\net8.0\ProductManager.pdb
+C:\Users\student\source\repos\ProductManager\obj\Debug\net8.0\ProductManager.genruntimeconfig.cache
+C:\Users\student\source\repos\ProductManager\obj\Debug\net8.0\ref\ProductManager.dll
